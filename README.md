@@ -2,6 +2,7 @@
 - 👀 I’m interested in AI/ML
 - 🌱 I’m currently learning R programming
 - Test
+- test2
 
 
 
